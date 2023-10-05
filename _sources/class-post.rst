@@ -21,7 +21,7 @@ Problems
    :fromid: Classes_Basic_Fix_GasTank_ac
    :points: 10
 
-.. selectquestion:: class_exp2-post-3-Horse-sq
+.. selectquestion:: class_exp2-post-3-fix-Horse-sq
    :fromid: Classes_Basic_Horse_fix_v3_ac
    :points: 10
 
