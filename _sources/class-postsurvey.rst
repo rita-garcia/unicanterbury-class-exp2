@@ -23,7 +23,7 @@ Please answer the following questions.
 
 .. shortanswer:: class_exp2-post-5-dis
 
-   Please list any learning issues we should be aware of like Dyslexia, Autism, ADHD, etc or enter none.
+   Please list any neurodiversities we should be aware of, such as Dyslexia, Autism, or ADHD. Otherwise, please enter "none" or "choose not to answer".
 
 .. shortanswer:: class_exp2-post-6-hours
 
