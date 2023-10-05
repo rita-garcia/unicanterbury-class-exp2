@@ -13,8 +13,8 @@ Problems
    :fromid: Classes_Basic_Movie_fix_v3_ac
    :points: 10
 
-.. selectquestion:: class_exp2-post-2-Rectangle-sq-v2
-   :fromid: Classes_Basic_Rectangle_ac_fix_v2
+.. selectquestion:: class_exp2-post-2-Rectangle-sq-v3
+   :fromid: Classes_Basic_Rectangle_ac_fix_v3
    :points: 10
 
 .. selectquestion:: class_exp2-post-4-GasTank-sq
@@ -25,8 +25,8 @@ Problems
    :fromid: Classes_Basic_Horse_fix_v3_ac
    :points: 10
 
-.. selectquestion:: class_exp2-post-5-Dice-sq
-   :fromid: Classes_Basic_Dice_fix_v3_ac
+.. selectquestion:: class_exp2-post-5-Dice-sq-v2
+   :fromid: Classes_Basic_Dice_fix_v4_ac
    :points: 10
 
 
