@@ -10,8 +10,8 @@ on it for about five minutes without solving it.
    :fromid: Classes_Basic_Song_wd_pp_v5
    :points: 10
 
-.. selectquestion:: class_exp2-cat-pwd-sq-v2
-   :fromid: Classes_Basic_Cat_wd_pp_v2
+.. selectquestion:: class_exp2-cat-pwd-sq-v3
+   :fromid: Classes_Basic_Cat_wd_pp_v3
    :points: 10
 
 .. selectquestion:: class_exp2-book-pwd-sq-v2
