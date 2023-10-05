@@ -23,7 +23,7 @@ on it for about five minutes without solving it.
    :points: 10
 
 .. selectquestion:: class_exp2-fortune-pwd-sq
-   :fromid: Classes_Basic_FortuneTeller_wd_pp
+   :fromid: Classes_Basic_FortuneTeller_wd_pp_v2
    :points: 10
 
 Feedback
