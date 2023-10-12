@@ -6,12 +6,12 @@ the following problems to the best of your ability without any
 outside help. You can stop working on a problem after you worked
 on it for about five minutes without solving it.
 
-.. selectquestion:: class_exp2-song-pwd-sq-v4
-   :fromid: Classes_Basic_Song_wd_pp_v5
+.. selectquestion:: class_exp2-song-pwd-sq-v6
+   :fromid: Classes_Basic_Song_wd_pp_v6
    :points: 10
 
-.. selectquestion:: class_exp2-cat-pwd-sq-v3
-   :fromid: Classes_Basic_Cat_wd_pp_v3
+.. selectquestion:: class_exp2-cat-pwd-sq-v4
+   :fromid: Classes_Basic_Cat_wd_pp_v4
    :points: 10
 
 .. selectquestion:: class_exp2-book-pwd-sq-v2
